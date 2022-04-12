@@ -1,1 +1,2 @@
-# TSP-GA-
+# Travelling salesman problem 
+# Genetic algorithm
